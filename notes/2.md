@@ -1,0 +1,14 @@
+Learning - Learn more about cosmos
+Document - Publish technical articles, explainer articles, based on learning
+Buidling - play with cosmos ibc, a bit tough scotty doesn't believe in us :(, Spinning up dapp chain, running a relayer
+
+## Have a bab cosmos chain running
+- Check out starport: Scaffold your modules with starport and then you can read the code from other chains as a guideline for more complex stuff. Most of what you need comes with the Cosmos SDK's base set of packages
+
+## Explainer on Cosmos IBC
+- Zeitgeist on Bridges, we can get in now
+- Systematization of knowledge on cosmos IBC: go through many docs, and give a TLDR: What is Cosmos IBC, Trust tradeoffs, meta-analysis, 
+
+## Wut are we doing?
+- Article on Cosmos: Tendermint + Cosmos chains
+- Article on IBC
